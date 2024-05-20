@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6SYSLYX6ieWzHaGhplN1L6byv1ZXTqybmoFb+HxXIz0=",
+  "Source": "ExpenseManagerApp",
+  "BasePath": "_content/ExpenseManagerApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

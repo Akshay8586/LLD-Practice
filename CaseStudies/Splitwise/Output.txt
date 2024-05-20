@@ -1,0 +1,27 @@
+SHOW
+No Balances
+SHOW u1
+No Balances
+EXPENSE u1 1000 4 u1 u2 u3 u4 EQUAL
+SHOW
+User2 owes User1: 250.0
+User3 owes User1: 250.0
+User4 owes User1: 250.0
+
+SHOW u1
+User2 owes User1: 250.0
+User3 owes User1: 250.0
+User4 owes User1: 250.0
+EXPENSE u1 1250 2 u2 u3 EXACT 370 880
+SHOW
+User2 owes User1: 620.0
+User3 owes User1: 1130.0
+User4 owes User1: 250.0
+
+EXPENSE u4 1200 4 u1 u2 u3 u4 PERCENT 40 20 20 20
+SHOW
+User2 owes User1: 620.0
+User3 owes User1: 1130.0
+User1 owes User4: 230.0
+User2 owes User4: 240.0
+User3 owes User4: 240.0
