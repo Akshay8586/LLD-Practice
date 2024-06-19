@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/akshay/MyDev/LLD-Practice/CaseStudies/Splitwise/ExpenseManagerApp/ExpenseManagerApp.csproj",
-      "projectName": "ExpenseManagerApp",
-      "projectPath": "/Users/akshay/MyDev/LLD-Practice/CaseStudies/Splitwise/ExpenseManagerApp/ExpenseManagerApp.csproj",
+      "projectUniqueName": "/Users/akshay/MyDev/LLD-Practice/Design Patterns/StrategyPattern/StrategyDesignPattern/StrategyDesignPattern/StrategyDesignPattern.csproj",
+      "projectName": "StrategyDesignPattern",
+      "projectPath": "/Users/akshay/MyDev/LLD-Practice/Design Patterns/StrategyPattern/StrategyDesignPattern/StrategyDesignPattern/StrategyDesignPattern.csproj",
       "packagesPath": "/Users/akshay/.nuget/packages/",
-      "outputPath": "/Users/akshay/MyDev/LLD-Practice/CaseStudies/Splitwise/ExpenseManagerApp/obj/",
+      "outputPath": "/Users/akshay/MyDev/LLD-Practice/Design Patterns/StrategyPattern/StrategyDesignPattern/StrategyDesignPattern/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/akshay/.nuget/NuGet/NuGet.Config"
